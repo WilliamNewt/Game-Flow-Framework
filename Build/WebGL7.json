@@ -1,0 +1,16 @@
+{
+"companyName": "Purdue Team",
+"productName": "Gameflow Framework",
+"productVersion": "0.1",
+"dataUrl": "WebGL7.data.unityweb",
+"wasmCodeUrl": "WebGL7.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL7.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.9f1"
+}
